@@ -40,3 +40,18 @@ The alert system is constructed using Bayesian networks to reason with uncertain
 Tools used: Java, AIspace Belief and Decision Networks tool
 
 ![](/images/alert_system.png)
+
+## Embedded Systems
+### [ShootMonster-Interactive game](https://github.com/pavsob/ShootMonster-game)
+An old-fashioned game that uses a Natural User Interface in the form of a physical model of a gun to control the GUI.  
+Tools used: Processing, microbit microcontroller
+
+![](/images/monster.png)
+
+### [Educational interactive board](https://github.com/pavsob/Educational-interactive-board)
+Created an interactive educational board about space exploration. GUI created through HTML, CSS and JavaScript. Arduino was used for interactive elements.
+Tools used: JavaScript, HTML, CSS, P5.js, Arduino
+
+![](/images/space.png)
+
+
