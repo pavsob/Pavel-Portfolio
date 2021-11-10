@@ -1,5 +1,3 @@
-# Pavel Portfolio
-Overview of the projects
 ## Autonomous Vehicles
 ### [ANGLERFISH NAVIGATION SYSTEM - navigation by mobile robots in unstructured spaces](https://github.com/pavsob/ANGLERFISH-NAVIGATION-SYSTEM---navigation-by-mobile-robots-in-unstructured-spaces)
 *Dissertation Project - University of St Andrews*  
