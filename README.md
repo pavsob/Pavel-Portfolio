@@ -32,6 +32,13 @@ A simple logistic regression model that can predict credit card approvals.
 Tools used: Python, NumPy, Pandas, Scikit-learn
 
 ## Artificial Intelligence
+### [Human Machine Collaboration - 3Dvision](https://github.com/pavsob/Human-Machine-Collaboration---3Dvision)
+*Bachelor Project - Brno University of Technology*  
+Conducted a research study in the area of computer vision and collaborative robotics with the ultimate goal of controlling a robotic arm with body movements. Successfully deployed application that has potential for practical use cases in several areas, e.g. fast and easy handling of heavy loads in production and remote-controlling items during space missions or bomb detonation missions.  
+Tools used: C#, ROS, Kinect SDK
+
+![](/images/guivision.png) ![](/images/robarm.png)
+
 ### [Easy as ABC puzzle solver](https://github.com/pavsob/Easy-as-ABC-puzzle-solver)
 Program that is capable of solving "Easy as ABC puzzle" by using propositional logic. In the first and second part the program is capable of checking the correctness of the puzzle and doing some deductions using procedual programming technique. In the third part the program encodes the problem into propositional logic, and then use the LogicNG library to use a SAT solver to solve the puzzles. Rules and the game itself can be accessed here: http://www.tectonicpuzzel.eu/easy-as-abc-puzzle%20techniques.html  
 Tools used: Java, LogicNG library
@@ -54,4 +61,8 @@ Tools used: JavaScript, HTML, CSS, P5.js, Arduino
 
 ![](/images/space.png)
 
-
+## NLP
+### [Viterbi algorithm POS](https://github.com/pavsob/Viterbi-algorithm-POS)
+Implementation of Viterbi algorithm using a hidden Markov model for part of speech tagging with Universal Dependencies treebanks and utilising dynamic programming.  
+Contributed to the Medium article: https://medium.com/data-science-in-your-pocket/pos-tagging-using-hidden-markov-models-hmm-viterbi-algorithm-in-nlp-mathematics-explained-d43ca89347c4  
+Tools used: Python
