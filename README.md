@@ -9,5 +9,5 @@ Tools used: Python, ROS (Robot Operating System), Rviz visualisation, Gazebo sim
 ![](/images/turtlebot.png)
 
 ### [Search Coastguard Rescue Simulations](https://github.com/pavsob/Search-Coastguard-Rescue-Simulations)
-Coastguard rescue simulation simulates the robot that has to navigate through the Giant's Causeway and find the shortest path to take people in danger to the safe position. Various search algorithms were implemented to optimize the robot's path to the goal.
+Coastguard rescue simulation simulates the robot that has to navigate through the Giant's Causeway and find the shortest path to take people in danger to the safe position. Various search algorithms were implemented to optimize the robot's path to the goal.  
 Tools used: Java
