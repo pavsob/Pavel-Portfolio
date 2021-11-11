@@ -4,7 +4,7 @@
 This dissertation project developed a novel navigational system called the Reverse anglerfish method for mobile robot navigation to plan a safe and efficient complete route to the goal.The system outperforms the conventional Potential field method by solving a local minima problem and is capable of overcoming obstacles of various complexity without the need for a global map. It can potentially be used not only for mobile robots, but also drones or multi-joint robotic arms.  
 Tools used: Python, ROS (Robot Operating System), Rviz visualisation, Gazebo simulation, TurtleBot2
 
-![](/images/turtlebot.png)
+#![](/images/turtlebot.png)
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6839505096296931328?compact=1" height="284" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
