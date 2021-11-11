@@ -6,6 +6,8 @@ Tools used: Python, ROS (Robot Operating System), Rviz visualisation, Gazebo sim
 
 ![](/images/turtlebot.png)
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6839505096296931328?compact=1" height="284" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ## [Coastguard Rescue Robot Simulation](https://github.com/pavsob/Search-Coastguard-Rescue-Simulations)
 Coastguard rescue simulation simulates the robot that has to navigate through the Giant's Causeway and find the shortest path to take people in danger to the safe position. Various search algorithms were implemented to optimize the robot's path to the goal.  
 Tools used: Java  
@@ -54,7 +56,7 @@ Tools used: Processing, microbit microcontroller
 ![](/images/monster.png)
 
 ## [Educational interactive board](https://github.com/pavsob/Educational-interactive-board)
-Created an interactive educational board about space exploration. GUI created through HTML, CSS and JavaScript. Arduino was used for interactive elements.
+Created an interactive educational board about space exploration. GUI created through HTML, CSS and JavaScript. Arduino was used for interactive elements. 
 Tools used: JavaScript, HTML, CSS, P5.js, Arduino
 
 ![](/images/space.png)
