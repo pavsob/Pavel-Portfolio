@@ -62,7 +62,7 @@ Tools used: Processing, microbit microcontroller
 ![](/images/monster.png)
 
 ## [Educational interactive board](https://github.com/pavsob/Educational-interactive-board)
-Created an interactive educational board about space exploration. GUI created through HTML, CSS and JavaScript. Arduino was used for interactive elements. 
+Created an interactive educational board about space exploration. GUI created through HTML, CSS and JavaScript. Arduino was used for interactive elements.  
 Tools used: JavaScript, HTML, CSS, P5.js, Arduino
 
 ![](/images/space.png)
