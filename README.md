@@ -15,8 +15,10 @@ Tools used: Java
 ## [Automatic Medication Dispenser - Facial Recognition](https://github.com/pavsob/Automatic-Medication-Dispenser---Facial-Recognition)
 Its purpose is to serve medicaments to the patients automatically. It consists of dispensing mechanism that picks an appropriate pill and dispenses it for a user. It has a screen through which the machine communicates with the patient. Another main component is a camera that the dispenser uses for facial recognition to identify the patient in front of the dispenser. It holds the database of its patients that contains data about the time the patient should be served the medications, what kind of medication and how many pills the patient should take. It also remembers whether the patient already took the pills. When the time comes to take the pill, the patient is notified by SMS.  
 Tools used: Python, dlib, Arduino
-
+<!---
 ![](/images/rsz_1dispenser.jpg)
+-->
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6803698440846086144?compact=1" height="284" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ## [Predicting Visual Data Competition](https://github.com/pavsob/Predicting-Visual-Data---Machine-Learning)
 This code was used in a friendly machine learning competition for the best performance on a low-quality visual data set.
@@ -36,8 +38,10 @@ Tools used: Python, NumPy, Pandas, Scikit-learn
 *Bachelor Project - Brno University of Technology*  
 Conducted a research study in the area of computer vision and collaborative robotics with the ultimate goal of controlling a robotic arm with body movements. Successfully deployed application that has potential for practical use cases in several areas, e.g. fast and easy handling of heavy loads in production and remote-controlling items during space missions or bomb detonation missions.  
 Tools used: C#, ROS, Kinect SDK
-
+<!---
 ![](/images/guivision.png) ![](/images/robarm.png)
+-->
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6802903176828735488?compact=1" height="284" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ## [Easy as ABC puzzle solver](https://github.com/pavsob/Easy-as-ABC-puzzle-solver)
 Program that is capable of solving "Easy as ABC puzzle" by using propositional logic. In the first and second part the program is capable of checking the correctness of the puzzle and doing some deductions using procedual programming technique. In the third part the program encodes the problem into propositional logic, and then use the LogicNG library to use a SAT solver to solve the puzzles. Rules and the game itself can be accessed here: http://www.tectonicpuzzel.eu/easy-as-abc-puzzle%20techniques.html  
