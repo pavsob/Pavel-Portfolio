@@ -76,5 +76,5 @@ Tools used: JavaScript, HTML, CSS, P5.js, Arduino
 # NLP
 ## [Viterbi algorithm POS](https://github.com/pavsob/Viterbi-algorithm-POS)
 Implementation of Viterbi algorithm using a hidden Markov model for part of speech tagging with Universal Dependencies treebanks and utilising dynamic programming.  
-Contributed to the Medium article: https://medium.com/data-science-in-your-pocket/pos-tagging-using-hidden-markov-models-hmm-viterbi-algorithm-in-nlp-mathematics-explained-d43ca89347c4  
+Contributed to the Medium article about Viterbi Algorithm [click here](https://medium.com/data-science-in-your-pocket/pos-tagging-using-hidden-markov-models-hmm-viterbi-algorithm-in-nlp-mathematics-explained-d43ca89347c4)  
 Tools used: Python
