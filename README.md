@@ -18,6 +18,9 @@ Tools used: Java
 Model–view–controller (MVC) software design pattern was used to recreate Microsoft's Paint application.  
 Tools used: Java  
 ![](/images/rsz_2mainwindow.png)
+## [Web Server](https://github.com/pavsob/Java-Web-Server)
+Simple Java web server which can respond to some HTTP/1.1 requests.  
+Tools used: Java 
 
 # Machine Learning
 ## [Automatic Medication Dispenser - Facial Recognition](https://github.com/pavsob/Automatic-Medication-Dispenser---Facial-Recognition)
