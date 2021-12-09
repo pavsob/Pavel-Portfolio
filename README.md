@@ -11,8 +11,8 @@ Tools used: Python, ROS (Robot Operating System), Rviz visualisation, Gazebo sim
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6839505096296931328?compact=1" height="284" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 # Java Projects
-## [Coastguard Rescue Robot Simulation](https://github.com/pavsob/Search-Coastguard-Rescue-Simulations)
-Coastguard rescue simulation simulates the robot that has to navigate through the Giant's Causeway and find the shortest path to take people in danger to the safe position. Various search algorithms were implemented to optimize the robot's path to the goal.  
+## [Coastguard Rescue Robot Simulation - Search algorithms](https://github.com/pavsob/Search-Coastguard-Rescue-Simulations)
+Implemented A*, BF, DF, 2 agent search and other search algorithms for Coastguard rescue simulation. It simulates the robot that has to navigate through the Giant's Causeway and find the shortest path to take people in danger to the safe position. Various search algorithms were implemented to optimize the robot's path to the goal.  
 Tools used: Java  
 ## [Paint Program](https://github.com/pavsob/Paint-Program---in-Java)
 Model–view–controller (MVC) software design pattern was used to recreate Microsoft's Paint application.  
